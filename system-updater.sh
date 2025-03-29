@@ -78,3 +78,6 @@ log_message "All logs available in $LOG_DIR:"
 ls -lh "$LOG_DIR" | tee -a "$UPDATE_LOG"
 
 exit 0
+
+#End of Script
+
